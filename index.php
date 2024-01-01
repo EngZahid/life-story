@@ -1,3 +1,4 @@
 <?
-echo 'done'
+echo 'done';
+echo 'working';
 ?>
